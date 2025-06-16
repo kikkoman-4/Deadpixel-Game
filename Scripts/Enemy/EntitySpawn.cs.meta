@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90881e477e222bd44968db111f3061ef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zombiePrefab: {instanceID: 0}
+  - skeletonPrefab: {instanceID: 0}
+  - creeperPrefab: {fileID: 2329830571082113834, guid: 2bf664736d4aa924ca4c354278e7c827, type: 3}
+  - spawnArea: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
